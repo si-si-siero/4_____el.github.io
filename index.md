@@ -1,1 +1,4 @@
-# マイページ
+---
+layout: default
+title: トップページ
+---
