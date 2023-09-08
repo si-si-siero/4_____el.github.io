@@ -1,15 +1,9 @@
----
 layout: default
 title: トップページ
 ---
+# 自己紹介
 
-# head1(1)
-## hoge
-hogehoge
+## 書いたもの
 
-# head1(2)
-## fuga
-fugafuga
+## サブページ
 
-# head1(3)
-## piyo
