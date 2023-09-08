@@ -12,4 +12,4 @@ title: トップページ
 ## サブページ
 * hogehoge
 * fugafuga
-* 日記
+* [日記](diary/)
