@@ -1,6 +1,6 @@
 ---
 layout: default
-title: トップページ
+title: Home
 ---
 
 ## 書いたもの
