@@ -2,7 +2,6 @@
 layout: default
 title: トップページ
 ---
-# 自己紹介
 
 ## 書いたもの
 * hoge
@@ -13,3 +12,4 @@ title: トップページ
 ## サブページ
 * hogehoge
 * fugafuga
+* 日記
