@@ -13,4 +13,4 @@ title: Home
 * hogehoge
 * fugafuga
 * [日記](diary/)
-* 記事
+* [記事](articles/)
