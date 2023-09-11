@@ -1,0 +1,27 @@
+---
+---
+
+@import "jekyll-theme-slate";
+
+header {
+  display: none;
+}
+
+.design10 {
+  text-align: left;
+  border: none;
+  border-collapse: collapse;
+}
+.design10 th {
+  padding: 5px 10px;
+  color: black;
+  background-color: transparent;
+  border: none;
+  border-bottom: solid 2px;
+}
+.design10 td {
+  padding: 5px 10px;
+  border: none;
+  border-bottom: solid 1px;
+  border-bottom-color: gray;
+}
