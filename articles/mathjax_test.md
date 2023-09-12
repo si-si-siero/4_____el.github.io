@@ -1,3 +1,5 @@
+{% include mathjax-v3.html %}
+
 # 数式表示のテスト
 
 **インライン数式**
