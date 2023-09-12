@@ -2,4 +2,10 @@
 
 **インライン数式**
 * 構造層 $\mathcal{O}_{\mathop{\mathrm{Spec}} A}$ .
-* $M$ をコンパクトで向き付け可能な $k$ 次元境界付き多様体とする．$M$ 上の $k-1$ 形式 $\omega$ に対して， $\displaystyle \int_M d\omega =\int_{\partial M}\omega$ .
+* $M$ をコンパクトで向き付け可能な $k$ 次元境界付き多様体とする． $M$ 上の $k-1$ 形式 $\omega$ に対して， $\displaystyle \int_M d\omega =\int_{\partial M}\omega$ .
+
+```tex
+構造層 $\mathcal{O}_{\mathop{\mathrm{Spec}} A}$
+ $M$ 上の $k-1$ 形式 $\omega$ に対して， $\displaystyle \int_M d\omega =\int_{\partial M}\omega$
+% $...$ の前後に空白を挿入しないと正しく動かない
+```
