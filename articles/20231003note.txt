@@ -2,7 +2,7 @@
 
 正の整数$n$に対し，$[n] = \Set{1, 2, \dots , n}$とおく．$[n]$の部分集合の有限列$(S_i)_{i=1}^m$であって，
 \[
-S_1\subseteqq S_2 \supseteqq S_3\subseteqq S_4\supseteqq \dots \subseteqq\supseteqq S_m
+S_1\subseteqq S_2 \supseteqq S_3\subseteqq S_4\supseteqq \dots \subseteqq\atop\supseteqq S_m
 \]
 となるものの個数を$a(n,m)$とおく．$a(n,m)$を$n$, $m$を用いて表せ．
 
